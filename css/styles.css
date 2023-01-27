@@ -632,7 +632,7 @@ input[type='checkbox'] {
 }
 
 .navbar-custom .navbar-brand.logo-image img {
-    width: 100px;
+    width: 50px;
 	height: 50px;
 	margin-bottom: 1px;
 	-webkit-backface-visibility: hidden;
@@ -1774,7 +1774,7 @@ a:hover.back-to-top {
 	.header .header-content {
 		padding-top: 13rem;
 		padding-bottom: 10rem;
-		text-align: left;
+		text-align: center;
 	}
 
 	.header .text-container {
@@ -1887,7 +1887,7 @@ a:hover.back-to-top {
 	.basic-4 .text-container {
 		margin-top: 7rem;
 		margin-bottom: 0;
-		text-align: left;
+		text-align: center;
 	}
 	/* end of download */
 
@@ -2088,3 +2088,4 @@ a:hover.back-to-top {
 	/* end of extra pages */
 }
 /* end of min-width width 1200px */
+
